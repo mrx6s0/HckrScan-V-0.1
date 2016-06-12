@@ -7,8 +7,8 @@
 
 
 ### type: cd "Downloads"
-# ~ chmod +x hckrscan.sh
-# ~ ./hckrscan.sh 
+# chmod +x hckrscan.sh
+# ./hckrscan.sh 
 
 and then, the screen come like this:
 
