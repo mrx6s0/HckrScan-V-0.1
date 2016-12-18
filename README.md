@@ -31,5 +31,3 @@ and then, the screen come like this:
 
 # ~ hack your way 
 ........................................................
-
-and then, the rest of the script.
